@@ -1,0 +1,2 @@
+# mergeconflict
+practicing git
